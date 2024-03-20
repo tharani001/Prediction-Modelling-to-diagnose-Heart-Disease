@@ -1,9 +1,7 @@
-This dataset contains medical and behavioral information used to predict the risk of heart disease. It is highly useful for research and machine learning in the health field.
+This study helps us in 
 
-This dataset can be used for various data analysis and machine learning projects, such as:
+1.Creating predictive models for diagnosing heart disease.
 
-Creating predictive models for diagnosing heart disease.
+2.Determining the major risk factors for heart disease.
 
-Determining the major risk factors for heart disease.
-
-Understanding the relationship between different variables and heart disease.
+3.Understanding the relationship between different variables and heart disease.
